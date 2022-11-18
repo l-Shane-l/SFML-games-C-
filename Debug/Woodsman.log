@@ -1,0 +1,10 @@
+﻿  Woodsman.cpp
+C:\VS Projects\Woodsman\Woodsman\Woodsman.cpp(95,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Woodsman\Woodsman\Woodsman.cpp(98,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Woodsman\Woodsman\Woodsman.cpp(120,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Woodsman\Woodsman\Woodsman.cpp(123,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Woodsman\Woodsman\Woodsman.cpp(145,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Woodsman\Woodsman\Woodsman.cpp(148,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Woodsman\Woodsman\Woodsman.cpp(169,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Woodsman\Woodsman\Woodsman.cpp(172,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Woodsman.vcxproj -> C:\VS Projects\Woodsman\Woodsman\Debug\Woodsman.exe
